@@ -3,7 +3,7 @@
 </em></p>
 
 [![Linkedin: imtiaz](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)]([https://www.linkedin.com/in/thaianebraga/](https://www.linkedin.com/in/am-imtiaz/))
-[![GitHub imtiaz](https://img.shields.io/github/followers/thaiane?label=follow&style=social)]([https://github.com/Thaiane](https://github.com/amimtiaz))
+[![GitHub imtiaz](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/amimtiaz)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
