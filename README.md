@@ -16,9 +16,7 @@ const thai = {
   tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
   architecture: ["microservices", "event-driven", "design system pattern"],
   techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "Guro"
+                        coorganizer: "Tripto"
                       },
  challenge: "I am doing the #100DaysOfCode challenge focused on Javascript and react"
 }
