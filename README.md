@@ -17,7 +17,7 @@ const thai = {
   techCommunities: {
                         coorganizer: "AfroPython",
                         speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
+                        mentor: "Guro"
                       },
  challenge: "I am doing the #100DaysOfCode challenge focused on Javascript and react"
 }
