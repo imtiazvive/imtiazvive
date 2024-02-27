@@ -22,7 +22,7 @@ const imtiaz = {
 }
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img src="https://media.giphy.com/media/23D8NR89IoZUC9jgsO/giphy.gif?cid=ecf05e47m5h8jzx8qghx65gbyyr0iu27hz6gfjs8rm6k6t6v&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 ---
 
