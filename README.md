@@ -1,3 +1,6 @@
+
+![imtiaz](https://github.com/amimtiaz/amimtiaz/assets/134070730/622c282a-b473-4332-8263-15ea2974a0de)
+
 <h2> Hi, I'm Imtiaz! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <p><em>Software Engineer at <a href="http://www.unb.br">Software AG</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="[https://www.thoughtworks.com](https://www.softwareag.com/en_corporate.html)">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
