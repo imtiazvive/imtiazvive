@@ -1,6 +1,6 @@
 
-![imtiaz](https://github.com/amimtiaz/amimtiaz/assets/134070730/622c282a-b473-4332-8263-15ea2974a0de)
 
+<!--![imtiaz](https://github.com/amimtiaz/amimtiaz/assets/134070730/622c282a-b473-4332-8263-15ea2974a0de)-->
 <h2> Hi, I'm Imtiaz! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <p><em>Software Engineer at <a href="https://www.softwareag.com/en_corporate.html">Software AG</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.softwareag.com/en_corporate.html">Software AG</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
@@ -28,6 +28,9 @@ const imtiaz = {
 <img src="https://media.giphy.com/media/23D8NR89IoZUC9jgsO/giphy.gif?cid=ecf05e47m5h8jzx8qghx65gbyyr0iu27hz6gfjs8rm6k6t6v&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 ---
+
+
+
 
 
 <h3 align="center">A passionate <img src="https://media.giphy.com/media/1sMGC0XjA1Hk58wppo/giphy.gif?cid=790b76114h6ml6e4opse5msmzdttti6mjo62vnlyr8yoo10i&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="28"> frontend developer from Bangladesh</h3>
