@@ -31,8 +31,6 @@ const imtiaz = {
 
 
 
-
-
 <h3 align="center">A passionate <img src="https://media.giphy.com/media/1sMGC0XjA1Hk58wppo/giphy.gif?cid=790b76114h6ml6e4opse5msmzdttti6mjo62vnlyr8yoo10i&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="28"> frontend developer from Bangladesh</h3>
 
 ---
