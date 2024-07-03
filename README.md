@@ -15,11 +15,11 @@
 ```javascript
 const imtiaz = {
   pronouns: "he" | "him",
-  code: [Javascript, HTML, CSS, Java, Kotlin],
+  code: [Java, Kotlin, PHP, MYSQL, Javascript],
   tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
   architecture: ["microservices", "event-driven", "design system pattern"],
   techCommunities: {
-                        coorganizer: "Tripto"
+                        coorganizer: "NextGen"
                       },
  challenge: "I am doing the #100DaysOfCode challenge focused on Javascript and react"
 }
