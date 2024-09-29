@@ -24,7 +24,7 @@ const imtiaz = {
   techCommunities: {
                         coorganizer: "NextGen"
                       },
-  challenge: "I am doing the #100DaysOfCode challenge focused on JavaScript and React"
+  challenge: "Taking on the #100DaysOfCode challenge to strengthen my proficiency in JavaScript and React development"
 }
 
 ```
