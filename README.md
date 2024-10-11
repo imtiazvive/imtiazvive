@@ -18,7 +18,7 @@
 ```javascript
 const imtiaz = {
   pronouns: "he" | "him",
-  code: [Java, Kotlin, PHP, MySQL, JavaScript],
+  code: [Java, Kotlin, Dart, PHP, MySQL, JavaScript],
   tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
   architecture: ["microservices", "event-driven", "design system pattern"],
   techCommunities: {
