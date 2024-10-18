@@ -1,5 +1,5 @@
 <!--![imtiaz](https://github.com/amimtiaz/amimtiaz/assets/134070730/622c282a-b473-4332-8263-15ea2974a0de)-->
-<h2>Hi, I'm Imtiaz! <img src="https://giphy.com/embed/3og0IttFpv7VPw5ZV6" width="480"></h2>
+<h2>Hi, I'm Imtiaz! <img src="https://giphy.com/stickers/imoji-cats-3og0IttFpv7VPw5ZV6" width="480"></h2>
 
 <iframe src="https://giphy.com/embed/3og0IttFpv7VPw5ZV6" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/imoji-cats-3og0IttFpv7VPw5ZV6">via GIPHY</a></p>
 
