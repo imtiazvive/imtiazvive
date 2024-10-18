@@ -21,9 +21,8 @@ const imtiaz = {
   code: [Java, Kotlin, Dart, PHP, MySQL, JavaScript],
   tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
   architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "NextGen"
-                      },
+  founder & CEO: "CoderVive"
+
   challenge: "Taking on the #100DaysOfCode challenge to strengthen my proficiency in JavaScript and React development"
 }
 
