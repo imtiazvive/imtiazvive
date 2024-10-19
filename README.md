@@ -1,8 +1,6 @@
 <!--![imtiaz](https://github.com/amimtiaz/amimtiaz/assets/134070730/622c282a-b473-4332-8263-15ea2974a0de)-->
 <h2>Hi, I'm Imtiaz! <img src="https://i.giphy.com/f7omQNmgiyjj5sffvZ.gif" width="50"> </h2>
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTltMGFzdmxndXdyenc0emh1aHppZ2x5a2RmdzlqMHVwMzB6eWQzNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/sWQCF6RxYQN7rjSXQE/giphy.webp">
-
 <p>
   <em>
     Software Engineer at <a href="https://www.softwareag.com/en_corporate.html">Software AG</a>
@@ -26,6 +24,7 @@ const imtiaz = {
   architecture: ["microservices", "event-driven", "design system pattern"],
    founderAndCEO: {
     name: "CoderVive",
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTltMGFzdmxndXdyenc0emh1aHppZ2x5a2RmdzlqMHVwMzB6eWQzNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/sWQCF6RxYQN7rjSXQE/giphy.webp">
     link: "https://codervive.com/"
   },
 
