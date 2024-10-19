@@ -1,12 +1,5 @@
 <!--![imtiaz](https://github.com/amimtiaz/amimtiaz/assets/134070730/622c282a-b473-4332-8263-15ea2974a0de)-->
-<h2>Hi, I'm Imtiaz!  </h2>
-
-<img src="https://i.giphy.com/imcPlB5yCKTmR4AgVC.gif" width="50">
-
-<img src="https://i.giphy.com/f62v8IMZm9mzIgVHKs.gif" width="50">
-
-
-
+<h2>Hi, I'm Imtiaz! <img src="https://i.giphy.com/f7omQNmgiyjj5sffvZ.gif" width="50"> </h2>
 <p>
   <em>
     Software Engineer at <a href="https://www.softwareag.com/en_corporate.html">Software AG</a>
