@@ -3,7 +3,7 @@
 
 <img src="https://i.giphy.com/imcPlB5yCKTmR4AgVC.gif" width="50">
 
-<img src="https://giphy.com/stickers/lela-sb1cZauzVkfjq.gif" width="50">
+<img src="https://i.giphy.com/stickers/lela-sb1cZauzVkfjq.gif" width="50">
 
 <p>
   <em>
