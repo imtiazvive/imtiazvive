@@ -1,7 +1,8 @@
 <!--![imtiaz](https://github.com/amimtiaz/amimtiaz/assets/134070730/622c282a-b473-4332-8263-15ea2974a0de)-->
 <h2>Hi, I'm Imtiaz!  </h2>
 
-https://i.giphy.com/imcPlB5yCKTmR4AgVC.gif
+<img src="https://i.giphy.com/imcPlB5yCKTmR4AgVC.gif" width="50">
+
 
 <p>
   <em>
