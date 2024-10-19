@@ -1,5 +1,6 @@
 <!--![imtiaz](https://github.com/amimtiaz/amimtiaz/assets/134070730/622c282a-b473-4332-8263-15ea2974a0de)-->
-<h2>Hi, I'm Imtiaz! https://github.com/user-attachments/assets/69af995d-2148-4759-8835-aaa5e3731802
+<h2>Hi, I'm Imtiaz! ![image](https://github.com/user-attachments/assets/8b4c7356-ecbc-4202-9dcc-ebff28ce7bd8)
+
 </h2>
 
 
