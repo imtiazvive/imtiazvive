@@ -3,7 +3,7 @@
 <p>
   <em>
     Software Engineer at <a href="https://www.softwareag.com/en_corporate.html">Software AG</a>
-    <img src="https://i.giphy.com/fU4QFwij7gllEN95zr.gif" width="30"><br>
+    <img src="https://i.giphy.com/XbgvCKxGzmdireW5LD.gif" width="30"><br>
     Developer Consultant at <a href="https://www.softwareag.com/en_corporate.html">Software AG</a>
     <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
   </em>
