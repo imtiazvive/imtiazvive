@@ -31,24 +31,25 @@ const imtiaz = {
 }
 
 ```
-<h3 align="center">Hello! I’m an Enthusiastic Android App Developer from Bangladesh</h3>
+<div align="center">
+  <h3>Hello! I’m an Enthusiastic Android App Developer from Bangladesh</h3>
 
-<p align="center">
-  <em>I genuinely enjoy connecting with new people, so don’t hesitate to reach out—I’d love to hear from you!</em> 😊
-</p>
+  <p><em>I love connecting with new people and exchanging ideas, so feel free to reach out—I’d love to hear from you!</em> 😊</p>
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-  <a href="https://linkedin.com/in/am-imtiaz" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="am-imtiaz" height="30" width="40" />
-  </a>
-  <a href="https://www.facebook.com/abMoImtiaz" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/abMoImtiaz" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/imtiaz_am" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imtiaz_am" height="30" width="40" />
-  </a>
-</p>
+  <h3>Connect with me:</h3>
+  <p>
+    <a href="https://linkedin.com/in/am-imtiaz" target="_blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    </a>
+    <a href="https://www.facebook.com/abMoImtiaz" target="_blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+    </a>
+    <a href="https://instagram.com/imtiaz_am" target="_blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+    </a>
+  </p>
+</div>
+
 
 ---
 
