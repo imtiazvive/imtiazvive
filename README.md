@@ -32,7 +32,7 @@ const imtiaz = {
 
 ```
 <div align="center">
-  <h3>Hello! I’m an Enthusiastic Android App Developer from Bangladesh</h3>
+  <h3>Hello! I’m an Enthusiastic Android Full Stack Developer from Bangladesh</h3>
 
   <p><em>I love connecting with new people and exchanging ideas, so feel free to reach out—I’d love to hear from you!</em> 😊</p>
 
@@ -48,11 +48,13 @@ const imtiaz = {
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
     </a>
   </p>
+  
+  <hr>
+
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amimtiaz&show_icons=true&locale=en&layout=compact" alt="amimtiaz" />
+  </p>
 </div>
 
-
----
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amimtiaz&show_icons=true&locale=en&layout=compact" alt="amimtiaz" /></p>
 
 
