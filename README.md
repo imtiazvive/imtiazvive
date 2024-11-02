@@ -32,8 +32,8 @@ const imtiaz = {
 
 ```
 
-<h3 align="center">Hello! I’m an Enthusiastic Android App Developer from Bangladesh</h3> <p align="center"> <img src="https://media.giphy.com/media/23D8NR89IoZUC9jgsO/giphy.gif?cid=ecf05e47m5h8jzx8qghx65gbyyr0iu27hz6gfjs8rm6k6t6v&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="60"> <em>I genuinely enjoy connecting with new people, so don’t hesitate to reach out—I’d love to hear from you!</em> 😊 </p>
----
+<h3 align="center">Hello! I’m an Enthusiastic Android App Developer from Bangladesh</h3> <p align="center"> <em>I genuinely enjoy connecting with new people, so don’t hesitate to reach out—I’d love to hear from you!</em> 😊 </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
