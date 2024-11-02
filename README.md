@@ -1,5 +1,5 @@
 <!--![imtiaz](https://github.com/amimtiaz/amimtiaz/assets/134070730/622c282a-b473-4332-8263-15ea2974a0de)-->
-<h2>Hi, I'm Imtiaz! <img src="https://i.giphy.com/WFZvB7VIXBgiz3oDXE.gif" width="50"> </h2>
+<h2>Hi, I'm Imtiaz! <img src="https://i.giphy.com/WFZvB7VIXBgiz3oDXE.gif" width="30"> </h2>
 
 <p>
   <em>
