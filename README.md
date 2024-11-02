@@ -15,7 +15,7 @@
 [![GitHub Imtiaz](https://img.shields.io/github/followers/amimtiaz?label=follow&style=social)](https://github.com/amimtiaz)
 <img src="https://komarev.com/ghpvc/?username=amimtiaz&label=Profile%20views&color=0e75b6&style=flat" alt="amimtiaz" />
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A Little More About Me...
+### <https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc24yeWQ5NXE1cmx3aDhkYnB3em10eTBhcm9ranhud3A3YWFkYXplaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RLDpFIGmWWWmAwva8G/giphy.gif" width="25"> A Little More About Me...
 
 ```javascript
 const imtiaz = {
