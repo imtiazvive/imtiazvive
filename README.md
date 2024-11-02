@@ -32,14 +32,7 @@ const imtiaz = {
 
 ```
 
-<img src="https://media.giphy.com/media/23D8NR89IoZUC9jgsO/giphy.gif?cid=ecf05e47m5h8jzx8qghx65gbyyr0iu27hz6gfjs8rm6k6t6v&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="60"> <em> <b>I enjoy meeting new people</b>, so feel free to say <b>hello—I'd love to connect!</b> 🙂 :)</em>
-
----
-
-
-
-<h3 align="center">A passionate <img src="https://media.giphy.com/media/1sMGC0XjA1Hk58wppo/giphy.gif?cid=790b76114h6ml6e4opse5msmzdttti6mjo62vnlyr8yoo10i&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="28"> Android App Developers from Bangladesh</h3>
-
+<h3 align="center">Hello! I’m an Enthusiastic Android App Developer from Bangladesh</h3> <p align="center"> <img src="https://media.giphy.com/media/23D8NR89IoZUC9jgsO/giphy.gif?cid=ecf05e47m5h8jzx8qghx65gbyyr0iu27hz6gfjs8rm6k6t6v&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="60"> <em>I genuinely enjoy connecting with new people, so don’t hesitate to reach out—I’d love to hear from you!</em> 😊 </p>
 ---
 
 <h3 align="left">Connect with me:</h3>
