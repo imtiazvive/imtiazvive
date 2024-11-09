@@ -51,11 +51,13 @@ const imtiaz = {
   
   <hr>
 
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amimtiaz&show_icons=true&locale=en&layout=compact" alt="amimtiaz" />
-  </p>
+ <div style="display: flex; gap: 10px; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amimtiaz&show_icons=true&locale=en&layout=compact" alt="amimtiaz" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amimtiaz&theme=light&hide_border=false" alt="streak-stats" />
+</div>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=amimtiaz&theme=light&hide_border=false)<br/>
+
+
 
 ---
 </div>
