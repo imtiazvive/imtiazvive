@@ -51,12 +51,11 @@ const imtiaz = {
   
   <hr>
 
-<p>
+  <p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amimtiaz&show_icons=true&locale=en&layout=compact" alt="amimtiaz" />
-    ![](https://github-readme-streak-stats.herokuapp.com/?user=amimtiaz&theme=light&hide_border=false)<br/>
   </p>
 
-
+ ![](https://github-readme-streak-stats.herokuapp.com/?user=amimtiaz&theme=light&hide_border=false)<br/>
 
 
 ---
