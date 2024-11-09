@@ -54,6 +54,16 @@ const imtiaz = {
   <p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amimtiaz&show_icons=true&locale=en&layout=compact" alt="amimtiaz" />
   </p>
+
+  # 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=amimtiaz&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=amimtiaz&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=amimtiaz&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=amimtiaz&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 </div>
 
 
