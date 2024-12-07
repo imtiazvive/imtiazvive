@@ -23,7 +23,7 @@ const imtiaz = {
   code: [Java, Kotlin, Dart, JavaScript, PHP, MySQL],
   tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
   architecture: ["microservices", "event-driven", "design system pattern"],
-   founder&ceo: {
+   Founder &amp; CEO: {
     name: "CoderVive"
   },
 
