@@ -20,12 +20,14 @@
 ```javascript
 const imtiaz = {
   pronouns: "he" | "him",
-  code: [Java, Kotlin, Dart, JavaScript, PHP, MySQL],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
+  code: ["Java", "Kotlin", "Dart", "JavaScript", "PHP", "MySQL"],
+  tools: ["React", "Redux", "Node", "Storybook", "Styled-Components", "Jest", "Docker"],
   architecture: ["microservices", "event-driven", "design system pattern"],
-   Founder &amp; CEO: {
+  "Founder & CEO": {
     name: "CoderVive"
-  },
+  }
+};
+
 
   challenge: "Taking on the #100DaysOfCode challenge to strengthen my proficiency in JavaScript and React development"
 }
