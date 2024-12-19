@@ -54,7 +54,7 @@ const imtiaz = {
   <hr>
 
   <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amimtiaz&show_icons=true&locale=en&layout=compact" alt="amimtiaz" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=imtiazvive&show_icons=true&locale=en&layout=compact" alt="amimtiaz" />
   </p>
 
  ![](https://github-readme-streak-stats.herokuapp.com/?user=amimtiaz&theme=light&hide_border=false)<br/>
