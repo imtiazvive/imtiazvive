@@ -1,4 +1,7 @@
 <!--![imtiaz](https://github.com/amimtiaz/amimtiaz/assets/134070730/622c282a-b473-4332-8263-15ea2974a0de)-->
+
+![abdullah-mohammed-imtiaz linkedin-cover](https://github.com/user-attachments/assets/36a30f2b-2c46-4977-ae16-6cf28c9c3ebb)
+
 <h2>Hi, I'm Imtiaz! <img src="https://i.giphy.com/WFZvB7VIXBgiz3oDXE.gif" width="30"> </h2>
 
 <p>
