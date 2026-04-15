@@ -43,7 +43,7 @@ const imtiaz = {
 
   <h3>Connect with me:</h3>
   <p>
-    <a href="https://linkedin.com/in/am-imtiaz" target="_blank">
+    <a href="https://linkedin.com/in/imtiazvive" target="_blank">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
     </a>
     <a href="https://www.facebook.com/abMoImtiaz" target="_blank">
@@ -57,7 +57,7 @@ const imtiaz = {
   <hr>
 
   <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=imtiazvive&show_icons=true&locale=en&layout=compact" alt="amimtiaz" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=imtiazvive&show_icons=true&locale=en&layout=compact" alt="imtiazvive" />
   </p>
 
  ![](https://github-readme-streak-stats.herokuapp.com/?user=imtiazvive&theme=light&hide_border=false)<br/>
