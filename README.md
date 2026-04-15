@@ -60,7 +60,7 @@ const imtiaz = {
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=imtiazvive&show_icons=true&locale=en&layout=compact" alt="amimtiaz" />
   </p>
 
- ![](https://github-readme-streak-stats.herokuapp.com/?user=amimtiaz&theme=light&hide_border=false)<br/>
+ ![](https://github-readme-streak-stats.herokuapp.com/?user=imtiazvive&theme=light&hide_border=false)<br/>
 
 
 ---
