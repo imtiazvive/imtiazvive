@@ -1,65 +1,72 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/36a30f2b-2c46-4977-ae16-6cf28c9c3ebb" width="100%" alt="Imtiaz Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=150&section=header&text=AB%20MOHAMMED%20IMTIAZ&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%" />
 
   <br/>
 
-  <h1>Hello, I'm Imtiaz <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2I1ejN4Z3R4Ynd4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+  ### ⚡ Founder of [CoderVive](https://codervive.com) | Full-Stack Architect | Android Expert
+  *Crafting high-performance digital experiences from Chattogram, Bangladesh*
 
-  <p>
-    <b>Founder @ CoderVive | Software Architect | Android Native Specialist</b>
-  </p>
-
-  <p>
-    <a href="https://linkedin.com/in/imtiazvive"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="https://github.com/amimtiaz"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-    <a href="https://www.facebook.com/abMoImtiaz"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <p align="center">
+    <a href="https://linkedin.com/in/imtiazvive"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" /></a>
+    <a href="https://github.com/amimtiaz"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+    <a href="https://www.facebook.com/abMoImtiaz"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" /></a>
+    <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white" /></a>
   </p>
 </div>
 
 ---
 
-### 🏛️ Executive Summary
-> *"Engineering precision into every pixel and every line of code."*
-
-As the founder of **CoderVive**, I lead the development of high-performance digital products. My expertise lies in **Native Android (Kotlin/Compose)** and **Full-Stack Architecture**, focusing on systems that are as scalable as they are intuitive.
+### 🖋️ The Vision
+"I don't just write code; I build businesses through technology." As a founder and developer, I focus on the intersection of **clean engineering** and **commercial scalability**. My goal is to transform complex problems into elegant, native mobile and web solutions.
 
 ---
 
-### 🛠️ Technical Arsenal
+### 🛠️ Specialized Skillset
 
 <div align="center">
-
-| **Mobile & Languages** | **Web & Backend** | **Architecture & Tools** |
-| :--- | :--- | :--- |
-| 📱 Kotlin / Java / Dart | 🌐 React / Next.js | 🏗️ MVVM / Clean Arch |
-| 🚀 Jetpack Compose | ⚙️ Node.js / PHP | 🐳 Docker / CI-CD |
-| 🎨 UI/UX Design Systems | 💾 MySQL / Firebase | 🧪 Jest / Espresso |
-
+  <img src="https://skillicons.dev/icons?i=kotlin,java,js,react,nextjs,nodejs,php,mysql,docker,github,figma,firebase" />
 </div>
+
+<br/>
+
+<table align="center">
+  <tr>
+    <td align="center" width="33%"><strong>Mobile</strong></td>
+    <td align="center" width="33%"><strong>Web</strong></td>
+    <td align="center" width="33%"><strong>Systems</strong></td>
+  </tr>
+  <tr>
+    <td align="center">Jetpack Compose<br/>Native Android<br/>Flutter / Dart</td>
+    <td align="center">React / Redux<br/>Next.js 14+<br/>Tailwind CSS</td>
+    <td align="center">Microservices<br/>REST / GraphQL<br/>Clean Architecture</td>
+  </tr>
+</table>
 
 ---
 
-### 📈 Activity & Impact
+### 📊 Performance Metrics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imtiazvive&show_icons=true&theme=tokyonight&hide_border=true&title_color=7F52FF&icon_color=7F52FF" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imtiazvive&layout=compact&theme=tokyonight&hide_border=true&title_color=7F52FF" width="42%" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=imtiazvive&show_icons=true&theme=transparent&title_color=0077B5&icon_color=0077B5&text_color=ffffff&bg_color=00000000&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imtiazvive&layout=compact&theme=transparent&title_color=0077B5&text_color=ffffff&bg_color=00000000&hide_border=true" width="40%" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imtiazvive&theme=tokyonight&hide_border=true&stroke=7F52FF&ring=7F52FF" width="90%" />
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imtiazvive&theme=transparent&stroke=0077B5&fire=0077B5&ring=0077B5&hide_border=true" width="90%" />
+</p>
 
 ---
 
-### ⚡ Current Sprint
+### 🚀 Current Trajectory
+- 🔭 **Founder @ CoderVive:** Leading a team to build native Android and Web experiences.
+- 🎓 **Continuous Learning:** Deep diving into Advanced Design Patterns & Microservices.
+- 🏆 **Challenge:** Currently crushing the **#100DaysOfCode** for React mastery.
+- 💬 **Ask Me About:** Startups, Jetpack Compose, and SEO-driven web platforms.
 
-```javascript
-const imtiaz = {
-  role: "CEO & Founder @ CoderVive",
-  location: "Chattogram, Bangladesh",
-  activeProject: "Scaling Digital News Solutions",
-  dailyStack: ["Kotlin", "Jetpack Compose", "Next.js"],
-  challenge: "#100DaysOfCode",
-  availability: "Open for strategic partnerships"
-};
+---
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote" />
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=imtiazvive&label=VISITOR%20COUNT&color=0077B5&style=for-the-badge" />
+</div>
