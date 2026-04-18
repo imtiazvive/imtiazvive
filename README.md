@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://img-to-svg.vercel.app/api?name=IMTIAZ&role=Software+Architect+%7C+CEO&service=Founder+%40+CoderVive&mail=imtiazvive%40gmail.com&bgColor=0A0A0A&textColor=7F52FF&animation=fadeIn" width="100%" alt="Ab Mohammed Imtiaz Business Card" />
+  <img src="https://img-to-svg.vercel.app/api?name=AB+MOHAMMED+IMTIAZ&role=Software+Architect+%7C+CEO&service=Founder+%40+CoderVive&mail=imtiazvive%40gmail.com&bgColor=0A0A0A&textColor=7F52FF&animation=fadeIn" width="100%" alt="Ab Mohammed Imtiaz Business Card" />
 
   <br/>
 
