@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=150&section=header&text=AB%20MOHAMMED%20IMTIAZ&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%" />
+  <img src="https://img-to-svg.vercel.app/api?name=IMTIAZ&role=Software+Architect+%7C+CEO&service=Founder+%40+CoderVive&mail=imtiazvive%40gmail.com&bgColor=0A0A0A&textColor=7F52FF&animation=fadeIn" width="100%" alt="Ab Mohammed Imtiaz Business Card" />
 
   <br/>
 
