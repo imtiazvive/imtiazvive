@@ -1,70 +1,70 @@
-<!--![imtiaz](https://github.com/amimtiaz/amimtiaz/assets/134070730/622c282a-b473-4332-8263-15ea2974a0de)-->
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/36a30f2b-2c46-4977-ae16-6cf28c9c3ebb" width="100%" alt="Banner"/>
 
-![abdullah-mohammed-imtiaz linkedin-cover](https://github.com/user-attachments/assets/36a30f2b-2c46-4977-ae16-6cf28c9c3ebb)
+  <h1> ⚡ Hey there, I'm Imtiaz! ⚡ </h1>
 
-<h2>Hi, I'm Imtiaz! <img src="https://i.giphy.com/WFZvB7VIXBgiz3oDXE.gif" width="30"> </h2>
+  <p align="center">
+    <strong>Founder & CEO at CoderVive | Full Stack Developer | Tech Enthusiast</strong>
+  </p>
 
-<p>
-  <em>
-    Founder & CEO at <a href="https://codervive.com/" target="_blank">CoderVive<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTltMGFzdmxndXdyenc0emh1aHppZ2x5a2RmdzlqMHVwMzB6eWQzNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/sWQCF6RxYQN7rjSXQE/giphy.webp" width="25"></a>  <br>
-    Former Software Engineer at <a href="https://www.softwareag.com/en_corporate.html" target="_blank">Software AG</a>
-    <img src="https://i.giphy.com/XbgvCKxGzmdireW5LD.gif" width="30"><br>
-    Developer Consultant at <a href="https://codervive.com" target="_blank">CoderVive</a>
-    <img src="https://i.giphy.com/YSB2NZZMTiPGRtEiBQ.gif" width="30">
-  </em>
-</p>
+  <p align="center">
+    <a href="https://www.linkedin.com/in/am-imtiaz/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="https://github.com/amimtiaz"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+    <a href="https://www.facebook.com/abMoImtiaz"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+  </p>
 
-[![LinkedIn: Imtiaz](https://img.shields.io/badge/-imtiazvive-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/am-imtiaz/)](https://www.linkedin.com/in/am-imtiaz/)
-[![GitHub Imtiaz](https://img.shields.io/github/followers/imtiazvive?label=follow&style=social)](https://github.com/amimtiaz)
-<img src="https://komarev.com/ghpvc/?username=imtiazvive&label=Profile%20views&color=0e75b6&style=flat" alt="amimtiaz" />
+  <img src="https://komarev.com/ghpvc/?username=imtiazvive&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Views" />
+</div>
 
-### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc24yeWQ5NXE1cmx3aDhkYnB3em10eTBhcm9ranhud3A3YWFkYXplaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RLDpFIGmWWWmAwva8G/giphy.gif" width="25"> A Little More About Me...
+---
+
+### 👤 About Me
+I am an enthusiastic **Android & Full Stack Developer** from 🇧🇩 **Bangladesh** with a passion for building scalable architectures and clean UI. As the founder of **CoderVive**, I bridge the gap between complex engineering and user-centric design.
+
+- 🚀 Currently strengthening my **JavaScript & React** skills via the **#100DaysOfCode** challenge.
+- 🛠 Former Software Engineer at **Software AG**.
+- 💡 Interested in **Microservices**, **Event-Driven Architecture**, and **Design Systems**.
+- 📫 How to reach me: [imtiazvive@gmail.com](mailto:your-email@example.com) (Update with your actual email!)
+
+---
+
+### 🛠 Tech Stack
+
+| Category | Tools & Languages |
+| :--- | :--- |
+| **Languages** | `Java` `Kotlin` `Dart` `JavaScript` `PHP` `SQL` |
+| **Frontend** | `React` `Redux` `Storybook` `Styled Components` |
+| **Backend** | `Node.js` `MySQL` `Microservices` |
+| **DevOps/Tools** | `Docker` `Jest` `Git` `Firebase` |
+
+---
+
+### 📊 Github Stats & Activity
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=imtiazvive&show_icons=true&theme=radical&hide_border=false" width="400" alt="Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imtiazvive&layout=compact&theme=radical&hide_border=false" width="300" alt="Languages" />
+      </td>
+    </tr>
+  </table>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imtiazvive&theme=radical&hide_border=false" width="100%" alt="Streak" />
+</div>
+
+---
+
+### 💻 Let's Connect!
 
 ```javascript
 const imtiaz = {
-  pronouns: "he" | "him",
-  code: ["Java", "Kotlin", "Dart", "JavaScript", "PHP", "MySQL"],
-  tools: ["React", "Redux", "Node", "Storybook", "Styled-Components", "Jest", "Docker"],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  "Founder & CEO": {
-    name: "CoderVive"
-  }
+    pronouns: "he/him",
+    currentFocus: "Scaling CoderVive",
+    challenge: "#100DaysOfCode",
+    askMeAbout: ["App Development", "SaaS Architecture", "Startup Growth"],
+    status: "Always open for a virtual coffee ☕"
 };
-
-
-  challenge: "Taking on the #100DaysOfCode challenge to strengthen my proficiency in JavaScript and React development"
-}
-
-```
-<div align="center">
-  <h3>Hello! I’m an Enthusiastic Android Full Stack Developer from Bangladesh</h3>
-
-  <p><em>I love connecting with new people and exchanging ideas, so feel free to reach out—I’d love to hear from you!</em> 😊</p>
-
-  <h3>Connect with me:</h3>
-  <p>
-    <a href="https://linkedin.com/in/imtiazvive" target="_blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-    </a>
-    <a href="https://www.facebook.com/abMoImtiaz" target="_blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
-    </a>
-    <a href="https://instagram.com/imtiaz_am" target="_blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-    </a>
-  </p>
-  
-  <hr>
-
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=imtiazvive&show_icons=true&locale=en&layout=compact" alt="imtiazvive" />
-  </p>
-
- ![](https://github-readme-streak-stats.herokuapp.com/?user=imtiazvive&theme=light&hide_border=false)<br/>
-
-
----
-</div>
-
-
-
