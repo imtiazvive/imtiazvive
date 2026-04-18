@@ -1,5 +1,58 @@
 <div align="center">
-  <img src="https://img-to-svg.vercel.app/api?name=AB+MOHAMMED+IMTIAZ&role=Software+Architect+%7C+CEO&service=Founder+%40+CoderVive&mail=imtiazvive%40gmail.com&bgColor=0A0A0A&textColor=7F52FF&animation=fadeIn" width="100%" alt="Ab Mohammed Imtiaz Business Card" />
+  <div align="center">
+  <svg width="100%" height="220" viewBox="0 0 850 220" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <style>
+      @keyframes fadeIn {
+        from { opacity: 0; transform: translateY(10px); }
+        to { opacity: 1; transform: translateY(0); }
+      }
+      .fade-in { animation: fadeIn 0.8s ease-out forwards; }
+      .st-title { fill: #ffffff; font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-weight: 700; font-size: 40px; }
+      .st-subtitle { fill: #8B5CF6; font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-weight: 600; font-size: 20px; }
+      .st-text { fill: #A1A1AA; font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-weight: 400; font-size: 16px; }
+      .st-icon { fill: #A1A1AA; }
+    </style>
+
+    <rect width="100%" height="100%" rx="12" fill="#111111" />
+    <rect x="2" y="2" width="846" height="216" rx="11" fill="#0A0A0A" />
+    
+    <path d="M0 12C0 5.37258 5.37258 0 12 0H838C844.627 0 850 5.37258 850 12V30H0V12Z" fill="#1F1F1F"/>
+    <rect x="0" y="25" width="850" height="5" fill="#7F52FF"/>
+
+    <g class="fade-in">
+      <text x="40" y="85" class="st-title">AB MOHAMMED IMTIAZ</text>
+      <text x="40" y="115" class="st-subtitle">FOUNDER & CEO @ CoderVive</text>
+      <text x="40" y="140" class="st-text">Full-Stack Architect | Native Android Specialist</text>
+
+      <line x1="550" y1="60" x2="550" y2="180" stroke="#262626" stroke-width="1"/>
+
+      <g transform="translate(580, 70)">
+        <path class="st-icon" d="M12 2C6.48 2 2 6.48 2 12C2 17.52 6.48 22 12 22C17.52 22 22 17.52 22 12C22 6.48 17.52 2 12 2ZM11 17V11H13V17H11ZM11 9V7H13V9H11Z"/>
+        <text x="35" y="17" class="st-text">Custom Software Development</text>
+      </g>
+      
+      <g transform="translate(580, 110)">
+        <path class="st-icon" d="M20 4H4C2.9 4 2.01 4.9 2.01 6L2 18C2 19.1 2.9 20 4 20H20C21.1 20 22 19.1 22 18V6C22 4.9 21.1 4 20 4ZM20 8L12 13L4 8V6L12 11L20 6V8Z"/>
+        <text x="35" y="17" class="st-text">imtiazvive@gmail.com</text>
+      </g>
+      
+      <g transform="translate(580, 150)">
+        <path class="st-icon" d="M12 2C8.13 2 5 5.13 5 9C5 14.25 12 22 12 22C12 22 19 14.25 19 9C19 5.13 15.87 2 12 2ZM12 11.5C10.62 11.5 9.5 10.38 9.5 9C9.5 7.62 10.62 6.5 12 6.5C13.38 6.5 14.5 7.62 14.5 9C14.5 10.38 13.38 11.5 12 11.5Z"/>
+        <text x="35" y="17" class="st-text">Chattogram, Bangladesh</text>
+      </g>
+    </g>
+  </svg>
+
+  <br/>
+
+  <h3> ⚡ Crafting high-performance digital experiences ⚡ </h3>
+
+  <p align="center">
+    <a href="https://linkedin.com/in/imtiazvive"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://github.com/amimtiaz"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+    <a href="https://www.facebook.com/abMoImtiaz"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  </p>
+</div>
 
   <br/>
 
