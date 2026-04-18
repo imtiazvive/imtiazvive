@@ -1,70 +1,66 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/36a30f2b-2c46-4977-ae16-6cf28c9c3ebb" width="100%" alt="Banner"/>
 
-  <h1> ⚡ Hey there, I'm Imtiaz! ⚡ </h1>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=CoderVive&fontSize=70" width="100%" />
 
-  <p align="center">
-    <strong>Founder & CEO at CoderVive | Full Stack Developer | Tech Enthusiast</strong>
-  </p>
+# 👋 I'm Abdullah Mohammed Imtiaz
+**Founder & CEO of CoderVive** *Building the future of mobile and web experiences through innovation and clean code.*
 
-  <p align="center">
-    <a href="https://www.linkedin.com/in/am-imtiaz/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="https://github.com/amimtiaz"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-    <a href="https://www.facebook.com/abMoImtiaz"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
-  </p>
-
-  <img src="https://komarev.com/ghpvc/?username=imtiazvive&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Views" />
-</div>
+<p align="center">
+  <a href="https://codervive.com"><b>Website</b></a> •
+  <a href="https://linkedin.com/in/imtiazvive"><b>LinkedIn</b></a> •
+  <a href="https://github.com/amimtiaz"><b>Projects</b></a>
+</p>
 
 ---
 
-### 👤 About Me
-I am an enthusiastic **Android & Full Stack Developer** from 🇧🇩 **Bangladesh** with a passion for building scalable architectures and clean UI. As the founder of **CoderVive**, I bridge the gap between complex engineering and user-centric design.
-
-- 🚀 Currently strengthening my **JavaScript & React** skills via the **#100DaysOfCode** challenge.
-- 🛠 Former Software Engineer at **Software AG**.
-- 💡 Interested in **Microservices**, **Event-Driven Architecture**, and **Design Systems**.
-- 📫 How to reach me: [imtiazvive@gmail.com](mailto:your-email@example.com) (Update with your actual email!)
+### 🏛️ Executive Profile
+I am a Software Developer turned Entrepreneur based in **Chattogram, Bangladesh**. As the founder of **CoderVive**, I lead a team dedicated to crafting high-performance Android and Web applications. My transition from a Software Engineer at **Software AG** to founding my own agency reflects my commitment to technical excellence and business leadership.
 
 ---
 
-### 🛠 Tech Stack
+### 🛠️ Strategic Expertise
 
-| Category | Tools & Languages |
-| :--- | :--- |
-| **Languages** | `Java` `Kotlin` `Dart` `JavaScript` `PHP` `SQL` |
-| **Frontend** | `React` `Redux` `Storybook` `Styled Components` |
-| **Backend** | `Node.js` `MySQL` `Microservices` |
-| **DevOps/Tools** | `Docker` `Jest` `Git` `Firebase` |
-
----
-
-### 📊 Github Stats & Activity
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=imtiazvive&show_icons=true&theme=radical&hide_border=false" width="400" alt="Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imtiazvive&layout=compact&theme=radical&hide_border=false" width="300" alt="Languages" />
-      </td>
-    </tr>
-  </table>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imtiazvive&theme=radical&hide_border=false" width="100%" alt="Streak" />
-</div>
+<table align="center">
+  <tr>
+    <td align="center" width="200"><b>Mobile Development</b></td>
+    <td align="center" width="200"><b>Web Engineering</b></td>
+    <td align="center" width="200"><b>Leadership</b></td>
+  </tr>
+  <tr>
+    <td align="center">Kotlin, Jetpack Compose, Flutter, Dart</td>
+    <td align="center">Next.js, React, Node.js, PHP</td>
+    <td align="center">SaaS Architecture, SEO Strategy, Team Building</td>
+  </tr>
+</table>
 
 ---
 
-### 💻 Let's Connect!
+### 🚀 Tech Stack & Ecosystem
 
-```javascript
-const imtiaz = {
-    pronouns: "he/him",
-    currentFocus: "Scaling CoderVive",
-    challenge: "#100DaysOfCode",
-    askMeAbout: ["App Development", "SaaS Architecture", "Startup Growth"],
-    status: "Always open for a virtual coffee ☕"
-};
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+### 📈 CoderVive Performance
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=imtiazvive&show_icons=true&theme=vue-dark&hide_border=true&title_color=42b883&icon_color=42b883" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imtiazvive&layout=compact&theme=vue-dark&hide_border=true&title_color=42b883" height="170" />
+</p>
+
+---
+
+### 📬 Let's Talk Strategy
+
+```json
+{
+  "status": "Available for Consultation",
+  "location": "Chattogram, Bangladesh",
+  "agency": "CoderVive",
+  "focus": ["Enterprise Solutions", "Native Android", "Full Stack Web"],
+  "currently_learning": "Finnish Language 🇫🇮"
+}
