@@ -70,3 +70,18 @@
   <br/>
   <img src="https://komarev.com/ghpvc/?username=imtiazvive&label=VISITOR%20COUNT&color=0077B5&style=for-the-badge" />
 </div>
+
+
+---
+
+### ⚡ Current Sprint
+
+```javascript
+const imtiaz = {
+  role: "Founder & CEO @ CoderVive",
+  activeProject: "Scaling Digital Solutions",
+  dailyStack: ["Kotlin", "React", "Docker"],
+  learning: "Advanced Microservices Patterns",
+  commitment: "#100DaysOfCode",
+  status: "Open for strategic partnerships"
+};
