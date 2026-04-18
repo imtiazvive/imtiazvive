@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0077B5&text=AB%20MOHAMMED%20IMTIAZ&fontSize=40&animation=fadeIn&fontAlignY=45" width="100%" />
+  <img src="https://github.com/user-attachments/assets/36a30f2b-2c46-4977-ae16-6cf28c9c3ebb" width="100%" alt="Banner"/>
 
   <p align="center">
     <strong>Founder @ CoderVive | Software Architect | Native Android Specialist</strong>
