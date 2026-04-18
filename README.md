@@ -1,66 +1,79 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0077B5&text=AB%20MOHAMMED%20IMTIAZ&fontSize=40&animation=fadeIn&fontAlignY=45" width="100%" />
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=CoderVive&fontSize=70" width="100%" />
+  <p align="center">
+    <strong>Founder @ CoderVive | Software Architect | Native Android Specialist</strong>
+  </p>
 
-# 👋 I'm Abdullah Mohammed Imtiaz
-**Founder & CEO of CoderVive** *Building the future of mobile and web experiences through innovation and clean code.*
-
-<p align="center">
-  <a href="https://codervive.com"><b>Website</b></a> •
-  <a href="https://linkedin.com/in/imtiazvive"><b>LinkedIn</b></a> •
-  <a href="https://github.com/amimtiaz"><b>Projects</b></a>
-</p>
-
----
-
-### 🏛️ Executive Profile
-I am a Software Developer turned Entrepreneur based in **Chattogram, Bangladesh**. As the founder of **CoderVive**, I lead a team dedicated to crafting high-performance Android and Web applications. My transition from a Software Engineer at **Software AG** to founding my own agency reflects my commitment to technical excellence and business leadership.
+  <p align="center">
+    <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
+    <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+    <img src="https://img.shields.io/badge/Microservices-FF9900?style=flat-square&logo=amazoneks&logoColor=white" alt="Micro" />
+  </p>
+</div>
 
 ---
 
-### 🛠️ Strategic Expertise
+### 🏛️ Executive Summary
+> *"Engineering solutions that bridge the gap between imagination and reality."*
 
-<table align="center">
+As the founder of **CoderVive**, I specialize in building robust, high-performance applications. My design philosophy is rooted in **clean architecture** and **user-centric scalability**. Whether it's a native Android app or a complex microservices backend, I build with precision.
+
+---
+
+### 🛠️ Technical Arsenal
+
+<table width="100%">
   <tr>
-    <td align="center" width="200"><b>Mobile Development</b></td>
-    <td align="center" width="200"><b>Web Engineering</b></td>
-    <td align="center" width="200"><b>Leadership</b></td>
-  </tr>
-  <tr>
-    <td align="center">Kotlin, Jetpack Compose, Flutter, Dart</td>
-    <td align="center">Next.js, React, Node.js, PHP</td>
-    <td align="center">SaaS Architecture, SEO Strategy, Team Building</td>
+    <td width="50%" valign="top">
+      <h4>🚀 Core Engineering</h4>
+      <ul>
+        <li><b>Languages:</b> Kotlin, Java, Dart, JavaScript (ES6+)</li>
+        <li><b>Mobile:</b> Native Android, Jetpack Compose, Flutter</li>
+        <li><b>Web:</b> React.js, Next.js, Node.js</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🏗️ Architecture & Tools</h4>
+      <ul>
+        <li><b>Patterns:</b> MVVM, Clean Architecture, Event-Driven</li>
+        <li><b>DevOps:</b> Docker, CI/CD Pipelines, Firebase</li>
+        <li><b>Testing:</b> Jest, JUnit, Espresso</li>
+      </ul>
+    </td>
   </tr>
 </table>
 
 ---
 
-### 🚀 Tech Stack & Ecosystem
+### 📈 Metrics of Impact
 
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=imtiazvive&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imtiazvive&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</div>
 
----
+<br/>
 
-### 📈 CoderVive Performance
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imtiazvive&show_icons=true&theme=vue-dark&hide_border=true&title_color=42b883&icon_color=42b883" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imtiazvive&layout=compact&theme=vue-dark&hide_border=true&title_color=42b883" height="170" />
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imtiazvive&theme=tokyonight&hide_border=true" width="100%" />
+</div>
 
 ---
 
-### 📬 Let's Talk Strategy
+### 🤝 Strategic Collaboration
+I am always looking to connect with founders, developers, and visionaries. 
 
-```json
-{
-  "status": "Available for Consultation",
-  "location": "Chattogram, Bangladesh",
-  "agency": "CoderVive",
-  "focus": ["Enterprise Solutions", "Native Android", "Full Stack Web"],
-  "currently_learning": "Finnish Language 🇫🇮"
-}
+- 📍 Based in **Chattogram, Bangladesh**
+- 💬 Ask me about **Agency Growth, App Scalability, or UI Design Systems**
+- 📫 Connect with me via **[LinkedIn](https://linkedin.com/in/imtiazvive)** or **[Facebook](https://www.facebook.com/abMoImtiaz)**
+
+```javascript
+// Current focus
+const currentTask = {
+  active: "Scaling CoderVive",
+  learning: "Advanced Design Systems",
+  commitment: "#100DaysOfCode",
+  status: "Open for Innovation"
+};
